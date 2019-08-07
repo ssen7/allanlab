@@ -6,7 +6,7 @@ sitemap: false
 permalink: /vacancies
 ---
 
-# Open positions
+<!-- # Open positions
 
 We are always looking for new group members with passion, talent, and grit!
 
@@ -34,4 +34,4 @@ If you are interested in pursuing a Master degree at Leiden University, see [mas
 
 <figure>
 <img src="{{ site.url }}{{ site.baseurl }}/images/picpic/Gallery/DSC_0696.jpg" width="95%">
-</figure>
+</figure> -->

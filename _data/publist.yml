@@ -1,10 +1,31 @@
 - title: "Assessment of Machine Learning Detection of Environmental Enteropathy and Celiac Disease in Children"
   image: STS_news.png
-  description: Can deep learning image analysis distinguish pathological vs healthy features in duodenal tissue?
-  authors: Sana Syed, Mohammad Al-Boni, Marium N. Khan et al.
+  # description: Can deep learning image analysis distinguish pathological vs healthy features in duodenal tissue?
+  authors: Sana Syed, Mohammad Al-Boni, Marium N Khan, Kamran Sadiq, Najeeha T Iqbal, Christopher A Moskaluk, Paul Kelly, Beatrice Amadi, S Asad Ali, Sean R Moore, Donald E Brown
   link:
     url: https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2735765
-    display:  JAMA Network Open, June 2019, Vol 2, No. 6
+    display:  JAMA Network Open, June 2019
   highlight: 1
   news2:
+
+- title: "Mo1992–Solving the Stain Dilemma: Computational Image Analysis to Address Differential Tissue Staining Color Bias in Duodenal Biopsies"
+  image: STS_news.png
+  description: 
+  authors: Sana Syed, Aman Shrivastava, Karan Kant, Saurav Sengupta, Luke Kang, Marium N Khan, Najeeha T Iqbal, Kamran Sadiq, Christopher A Moskaluk, Beatrice Amadi, Paul Kelly, Asad Ali, Sean Moore, Donald Brown
+  link:
+    url: https://www.gastrojournal.org/article/S0016-5085(19)39255-8/abstract
+    display:  Gastronenterology
+  highlight: 1
+  news2:
+
+- title: "Deep Learning for Detecting Diseases in Gastrointestinal Biopsy Images"
+  image: STS_news.png
+  # description: Working deep learning architecture for classification of gastrointestinal diseases from high resolution biopsy images.
+  authors: Aman Srivastava, Saurav Sengupta, Sung-Jun Kang, Karan Kant, Marium Khan, S Asad Ali, Sean R Moore, Beatrice C Amadi, Paul Kelly, Sana Syed, Donald E Brown
+  link:
+    url: https://ieeexplore.ieee.org/abstract/document/8735619
+    display:  IEEE Xplore
+  highlight: 1
+  news2:
+
 
