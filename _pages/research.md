@@ -7,4 +7,4 @@ permalink: /research/
 ---
 
 # Research
-* [Gastroentrology](/research/gastro)
+* [Gastroentrology]({{ site.url }}{{ site.baseurl }}/research/gastro)
