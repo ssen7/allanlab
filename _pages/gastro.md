@@ -1,10 +1,9 @@
 ---
-title: "Gastro"
+title: "Deep Learning for Medical Imaging"
 layout: textlay
 excerpt: "GutAI -- Research"
 sitemap: false
-permalink: /research/gastro
+permalink: /research/deeplearning
 ---
 
-## Hey!!!!
-s
+## Deep Learning for Medical Imaging

@@ -38,7 +38,7 @@
 
 - name: Lubaina Ehsan
   photo: lubaina.jpg
-  info: MD
+  info: Research Assistant, MD
   email: LE7JG@hscmail.mcc.virginia.edu 
 #   number_educ: 2
 #   education1: Bachelor National and Kapodistrian University of Athens with D Syvridis
@@ -97,6 +97,16 @@
 - name: Ke Wang
   photo: ke.jpg
   # info: Fine mechanical engineer associated with the FMD working in our group
+  email: kw5na@virginia.edu 
+#   number_educ: 2
+#   education1: Leidse Instrumentmaker School
+#   education2: Mechanical Engineer , Hogeschool  Delft
+#   education3:
+#   education4:
+
+- name: Victor Aquino
+  photo: victor.jpg
+  info: Medical Student at UVa
   email: kw5na@virginia.edu 
 #   number_educ: 2
 #   education1: Leidse Instrumentmaker School
