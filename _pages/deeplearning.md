@@ -1,9 +1,7 @@
 ---
 title: "Deep Learning for Medical Imaging"
-layout: textlay
+layout: presentation
 excerpt: "GutAI -- Research"
 sitemap: false
 permalink: /research/deeplearning
 ---
-
-## Deep Learning for Medical Imaging
