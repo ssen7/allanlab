@@ -1,7 +1,7 @@
 - name: Dr. Sana Syed
   photo: drsyed.jpg
   info: Assistant Professor, MD, MS
-  email: sana.syed@virginia.edu
+  # email: sana.syed@virginia.edu
   # number_educ: 2
   # education1: Master ETHZ, Diplomarbeit with <a href="http://www.physik.uzh.ch/groups/osterwalder/">J Osterwalder</a>, University of Zurich
   # education2: @SSyedResearch
@@ -12,44 +12,44 @@
 - name: Dr. Don Brown
   photo: drbrown.jpg
   info: W.S. Calcott Professor Department of Systems and Information Engineering
-  email: deb@virginia.edu
+  # email: deb@virginia.edu
   # number_educ: 4
   # education1: B.S. Yonsei University, Korea
   # education2: PhD Yonsei University, Korea with <a href="http://web.yonsei.ac.kr/nano/%ED%95%99%EA%B3%BC%EC%86%8C%EA%B0%9C.htm">In-Whan Lyo</a>
   # education3: Postdoc POSTECH with <a href="http://caldes.ibs.re.kr/html/caldes_en/">Han Woong Yeom</a>
   # education4: Postdoc Rutgers with <a href="http://rcem.rutgers.edu/">Sang-Wook Cheong</a>
 
-- name: Aman Shrivastava
-  photo: aman.png
-  info: Research Scientist, MS
-  email: as3ek@virginia.edu
-#   number_educ: 1
-#   education1: Master Leiden University with Milan Allan
-
-- name: Saurav Sengupta
-  photo: saurav3.jpg
-  info: Research Scientist, MS
-  email: ss4yd@virginia.edu
-#   number_educ: 1
-#   education1: Master Leiden University with Milan Allan
-#   education2:
-#   education3:
-#   education4:
-
 - name: Lubaina Ehsan
   photo: lubaina.jpg
   info: Research Assistant, MD
-  email: LE7JG@hscmail.mcc.virginia.edu 
+  # email: LE7JG@hscmail.mcc.virginia.edu 
 #   number_educ: 2
 #   education1: Bachelor National and Kapodistrian University of Athens with D Syvridis
 #   education2: Master TU Delft with <a href="http://vanderzantlab.tudelft.nl/">Herre van der Zant</a>
 #   education3:
 #   education4:
 
+- name: Aman Shrivastava
+  photo: aman.png
+  info: Research Scientist, MS
+  # email: as3ek@virginia.edu
+#   number_educ: 1
+#   education1: Master Leiden University with Milan Allan
+
+- name: Saurav Sengupta
+  photo: saurav3.jpg
+  info: Research Scientist, MS
+  # email: ss4yd@virginia.edu
+#   number_educ: 1
+#   education1: Master Leiden University with Milan Allan
+#   education2:
+#   education3:
+#   education4:
+
 - name: Vince Pulido
   photo: vince.png
   info: PhD Student
-  email: j.vincepulido@gmail.com
+  # email: j.vincepulido@gmail.com
 #   number_educ: 1
 #   education1: Master Leiden University with Felix Baumberger, Milan Allan
 #   education2:
@@ -59,7 +59,7 @@
 - name: Alexis Catalano
   photo: alexis.jpg
   info: Biology undergrad at UVa
-  email: amc5ap@virginia.edu 
+  # email: amc5ap@virginia.edu 
 #   number_educ: 2
 #   education1: Master Leiden University with Milan Allan
 #   education2: Casimir PhD grant
@@ -69,7 +69,7 @@
 - name: Kamran Kowsari
   photo: kamran.jpg
   info: PhD Student
-  email: kk7nc@virginia.edu 
+  # email: kk7nc@virginia.edu 
 #   number_educ: 1
 #   education1: Master University of Amsterdam with Diego Hofman
 #   education2:
@@ -79,7 +79,7 @@
 - name: William Adorno
   photo: will.png
   info: PhD Student
-  email: wa3mr@virginia.edu 
+  # email: wa3mr@virginia.edu 
 #   number_educ: 2
 #   education1: Leidse instrumentmakers School
 #   education2: Associate degree Mechanical Engineering, Hogeschool Arnhem Nijmegen
@@ -87,7 +87,7 @@
 - name: Rasoul Sali
   photo: rasoul.jpg
   info: PhD Student
-  email: rs8wa@virginia.edu 
+  # email: rs8wa@virginia.edu 
 #   number_educ: 2
 #   education1: Leidse Instrumentmaker School
 #   education2: Mechanical Engineer , Hogeschool  Delft
@@ -97,7 +97,7 @@
 - name: Ke Wang
   photo: ke.jpg
   # info: Fine mechanical engineer associated with the FMD working in our group
-  email: kw5na@virginia.edu 
+  # email: kw5na@virginia.edu 
 #   number_educ: 2
 #   education1: Leidse Instrumentmaker School
 #   education2: Mechanical Engineer , Hogeschool  Delft
@@ -107,7 +107,7 @@
 - name: Victor Aquino
   photo: victor.jpg
   info: Medical Student at UVa
-  email: kw5na@virginia.edu 
+  # email: kw5na@virginia.edu 
 #   number_educ: 2
 #   education1: Leidse Instrumentmaker School
 #   education2: Mechanical Engineer , Hogeschool  Delft

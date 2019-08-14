@@ -1,0 +1,59 @@
+---
+layout: default
+---
+<!-- <div id="research" class="col-sm-12">
+  {{ content }}
+</div> -->
+<div id="textid" class="col-sm-9">
+
+  <p>The interpretation of clinical biopsy images for disease diagnoses can be challenging when clinicians are faced
+    with distinguishing between distinct but related conditions. Recently, increasing attention has been paid to methods
+    in artificial intelligence that help clinicians to translate big data into accurate and quantitative diagnostics. In
+    contrast, deep learning or a convolutional neural network (CNN) is a form of artificial intelligence that includes
+    machine learning techniques designed to process data and interpret it (eg, by detecting and segmenting multiple
+    pixel intensities within a single image and labeling features at a pixel-by-pixel level).</p>
+  <div id="textid" class="col-sm-12">
+    <p><img src="http://localhost:4000/images/research/cnn_research.png" alt="cnn_research" class="img-responsive" />
+    </p>
+  </div>
+  <p>Pathology has played an essential role in diagnosing gastrointestinal
+    disorders. However, errors can occur due to
+    complex systems, time constraints and variable inputs.
+    This can be further complicated when the biopsy images
+    share histological features. Computational methods have the
+    potential to address these challenges. In light of this, developing
+    assistive computational methods can help mitigate said
+    errors. The goal of applying computational methods in identifying
+    diseases is for developing fast, reproducible and reasonably
+    accurate methods that can be easily standardized.</p>
+</div>
+<div id="textid" class="col-sm-9">
+  <h1 id="stain-normalization">Data Pre-processing</h1>
+
+  <p>Before we use the WSIs for analyis we observed visible variations in the color of the images due to differences in
+    scanners, staining chemicals used while preparing the slide, and staining methods used across pathology labs. When
+    these images were analyzed using deep learning techniques, it led to erroneous results that were not based on the
+    features of the image but on color difference. To address this issue we applied Structure Preserving Color
+    Normalization described by Vahadane et. al.[12] using a empirically chosen target image from the EE dataset to
+    normalize all our images.</p>
+
+</div>
+<div id="comparison">
+  <figure>
+    <div id="divisor">
+    </div>
+  </figure>
+  <input type="range" min="0" max="100" value="50" id="slider" oninput="moveDivisor()">
+</div>
+
+<div id="textid" class="col-sm-9">
+  {{ content }}
+</div>
+
+<script>
+  var divisor = document.getElementById("divisor"),
+    slider = document.getElementById("slider");
+  function moveDivisor() {
+    divisor.style.width = slider.value + "%";
+  }
+</script>

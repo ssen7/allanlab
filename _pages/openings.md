@@ -1,5 +1,5 @@
 ---
-title: "GutAI - Vacancies"
+title: "AI in Gastroenterology Group - Vacancies"
 layout: textlay
 excerpt: "Openings"
 sitemap: false

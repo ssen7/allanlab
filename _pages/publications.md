@@ -1,5 +1,5 @@
 ---
-title: "GutAI - Publications"
+title: "AI in Gastroenterology Group - Publications"
 layout: gridlay
 excerpt: "GutAI -- Publications."
 sitemap: false

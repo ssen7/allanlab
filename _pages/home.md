@@ -1,25 +1,26 @@
 ---
-title: "GutAI - Home"
+title: "AI in Gastroenterology Group - Home"
 layout: homelay
-excerpt: "GutAI at the University of Virginia"
+excerpt: "AI in Gastroenterology Group at the University of Virginia"
 sitemap: false
 permalink: /
 ---
 
+![cnn_research]({{ site.url }}{{ site.baseurl }}/images/research/cnn_research.png){:class="img-responsive"}
 
 
-<div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="5000" data-pause="hover" >
-    <!-- Menu -->
+<!-- <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="5000" data-pause="hover" >
+    Menu
     <ol class="carousel-indicators">
         <li data-target="#carousel" data-slide-to="0" class="active"></li>
         <li data-target="#carousel" data-slide-to="1"></li>
         <li data-target="#carousel" data-slide-to="2"></li>
-        <!-- <li data-target="#carousel" data-slide-to="3"></li>
+        <li data-target="#carousel" data-slide-to="3"></li>
         <li data-target="#carousel" data-slide-to="4"></li>
-        <li data-target="#carousel" data-slide-to="5"></li> -->
+        <li data-target="#carousel" data-slide-to="5"></li>
     </ol>
 
-    <!-- Items -->
+    Items
     <div class="carousel-inner" markdown="0">
 
         <div class="item active">
@@ -41,7 +42,7 @@ permalink: /
     <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
     <span class="sr-only">Next</span>
   </a>
-</div>
+</div> -->
 
 
 

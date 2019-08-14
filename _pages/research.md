@@ -1,11 +1,15 @@
 ---
-title: "GutAI - Research"
-layout: textlay
-excerpt: "GutAI -- Research"
+title: "AI in Gastroenterology Group - Research"
+layout: research
+excerpt: "AI in Gastroenterology Group -- Research"
 sitemap: false
 permalink: /research/
 ---
 
-# Research
-* [Deep Learning for Medical Imaging]({{ site.url }}{{ site.baseurl }}/research/deeplearning)
-  <img src='{{ site.url }}{{ site.baseurl }}/images/carousel/c2.jpg' class='img-responsive' style='max-width: 300px' />
+## This is awesome
+The interpretation of clinical biopsy images for disease diagnoses can be challenging when clinicians are faced
+with distinguishing between distinct but related conditions. Recently, increasing attention has been paid to methods
+in artificial intelligence that help clinicians to translate big data into accurate and quantitative diagnostics. In
+contrast, deep learning or a convolutional neural network (CNN) is a form of artificial intelligence that includes
+machine learning techniques designed to process data and interpret it (eg, by detecting and segmenting multiple
+pixel intensities within a single image and labeling features at a pixel-by-pixel level).

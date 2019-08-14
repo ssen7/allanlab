@@ -1,7 +1,7 @@
 ---
-title: "GutAI - Team"
+title: "AI in Gastroenterology Group - Team"
 layout: gridlay
-excerpt: "GutAI: Team members"
+excerpt: "AI in Gastroenterology Group: Team members"
 sitemap: false
 permalink: /team/
 ---
