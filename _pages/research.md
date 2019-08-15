@@ -6,7 +6,7 @@ sitemap: false
 permalink: /research/
 ---
 
-## This is awesome
+## Using deep learning for biopsy classification
 The interpretation of clinical biopsy images for disease diagnoses can be challenging when clinicians are faced
 with distinguishing between distinct but related conditions. Recently, increasing attention has been paid to methods
 in artificial intelligence that help clinicians to translate big data into accurate and quantitative diagnostics. In
