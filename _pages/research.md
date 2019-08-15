@@ -20,21 +20,8 @@ Hematoxylin and Eosin(H&E) stains are the most widely used stains in medical dia
 
 {% endfor %}
 
-<div id="comparison">
-  <figure>
-    <div id="divisor">
-    </div>
-  </figure>
-  <input type="range" min="0" max="100" value="50" id="slider" oninput="moveDivisor()">
-</div>
 
-<script>
-  var divisor = document.getElementById("divisor"),
-    slider = document.getElementById("slider");
-  function moveDivisor() {
-    divisor.style.width = slider.value + "%";
-  }
-</script>
+<div class="Library"></div>
 
 ### Interpretation of Deep Learning Results
 The interpretation of clinical biopsy images for disease diagnoses can be challenging when clinicians are faced
