@@ -1,3 +1,15 @@
 ---
 layout: default
 ---
+
+<div id="gridid" class="col-sm-12">
+  {{ content }}
+</div>
+
+<script>
+  var divisor = document.getElementById("divisor"),
+    slider = document.getElementById("slider");
+  function moveDivisor() {
+    divisor.style.width = slider.value + "%";
+  }
+</script>
