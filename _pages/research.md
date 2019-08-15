@@ -1,6 +1,6 @@
 ---
 title: "AI in Gastroenterology Group - Research"
-layout: research
+layout: ui
 excerpt: "AI in Gastroenterology Group -- Research"
 sitemap: false
 permalink: /research/
