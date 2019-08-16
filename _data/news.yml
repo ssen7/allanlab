@@ -1,9 +1,26 @@
 
-- date: 01 August 2019
-  headline: "<b> Hot Off the Press! <a href='https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2735765'>Jama Open Publication</a> in June 2019!</b><img src='/allanlab/images/news/news1.png' class='img-responsive' style='max-width: 250px' />"
+- date: 5 July 2019
+  headline: "<b> We are featured in  <a href='https://www.celiac.com/articles.html/celiac-disease-diagnosis-testing-amp-treatment/can-machines-learn-to-diagnose-celiac-disease-better-and-faster-than-humans-r4848/'>Celiac.com!</a></b>"
+  image: news5.jpg
+  style: 'max-width: 250px'
 
-- date: 15. July 2019
-  headline: "Aman Shrivastava presents at <a href='https://www.bhi-bsn-2019.org/'>IEEE-EMBS International Conference On Biomedical and Health Informatics (BHI’19) </a>, Chicago, IL, USA <img src='/allanlab/images/news/news2.png' class='img-responsive' style='max-width: 192px' />"
+- date: June 18 2019
+  headline: "<b> We are featured in  <a href='https://healthitanalytics.com/news/machine-learning-algorithm-accelerates-diagnosis-of-gut-disease'>Health IT Analytics!</a></b>"
+  image: news4.jpg
+  style: 'max-width: 250px'
 
-- date: 24. May 2019
-  headline: "Marium Khan presents ‘Solving the Stain Dilemma’ at <a href='https://ddw.org/home'>DDW 2019 </a>, San Diego, CA, USA <img src='/allanlab/images/news/news3.png' class='img-responsive' style='max-width: 192px' />"
+- date: June 15 2019
+  headline: "<b> Hot Off the Press! <a href='https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2735765'>Jama Open Publication</a> in June 2019!</b>"
+  image: news1.png
+  style: 'max-width: 250px'
+    
+- date: May 19 2019
+  headline: "Aman Shrivastava presents at <a href='https://www.bhi-bsn-2019.org/'>IEEE-EMBS International Conference On Biomedical and Health Informatics (BHI’19) </a>, Chicago, IL, USA"
+  image: news2.png
+  style: 'max-width: 200px'
+
+- date: May 18 2019
+  headline: "Marium Khan presents ‘Solving the Stain Dilemma’ at <a href='https://ddw.org/home'>DDW 2019 </a>, San Diego, CA, USA "
+  image: news3.png
+  style: 'max-width: 200px'
+
