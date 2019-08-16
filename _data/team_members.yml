@@ -1,7 +1,8 @@
 - name: Dr. Sana Syed
   photo: drsyed.jpg
   info: Assistant Professor, MD, MS
-  # email: sana.syed@virginia.edu
+  email: sana.syed@virginia.edu
+  # github: ll
   # number_educ: 2
   # education1: Master ETHZ, Diplomarbeit with <a href="http://www.physik.uzh.ch/groups/osterwalder/">J Osterwalder</a>, University of Zurich
   # education2: @SSyedResearch
@@ -12,7 +13,7 @@
 - name: Dr. Don Brown
   photo: drbrown.jpg
   info: W.S. Calcott Professor Department of Systems and Information Engineering
-  # email: deb@virginia.edu
+  email: deb@virginia.edu
   # number_educ: 4
   # education1: B.S. Yonsei University, Korea
   # education2: PhD Yonsei University, Korea with <a href="http://web.yonsei.ac.kr/nano/%ED%95%99%EA%B3%BC%EC%86%8C%EA%B0%9C.htm">In-Whan Lyo</a>
@@ -22,7 +23,7 @@
 - name: Lubaina Ehsan
   photo: lubaina.jpg
   info: Research Assistant, MD
-  # email: LE7JG@hscmail.mcc.virginia.edu 
+  email: LE7JG@hscmail.mcc.virginia.edu 
 #   number_educ: 2
 #   education1: Bachelor National and Kapodistrian University of Athens with D Syvridis
 #   education2: Master TU Delft with <a href="http://vanderzantlab.tudelft.nl/">Herre van der Zant</a>
@@ -32,14 +33,16 @@
 - name: Aman Shrivastava
   photo: aman.png
   info: Research Scientist, MS
-  # email: as3ek@virginia.edu
+  email: as3ek@virginia.edu
+  github: https://github.com/amanthedorkknight
 #   number_educ: 1
 #   education1: Master Leiden University with Milan Allan
 
 - name: Saurav Sengupta
   photo: saurav3.jpg
   info: Research Scientist, MS
-  # email: ss4yd@virginia.edu
+  email: ss4yd@virginia.edu
+  github: https://github.com/ssen7
 #   number_educ: 1
 #   education1: Master Leiden University with Milan Allan
 #   education2:
@@ -49,7 +52,7 @@
 - name: Vince Pulido
   photo: vince.png
   info: PhD Student
-  # email: j.vincepulido@gmail.com
+  email: j.vincepulido@gmail.com
 #   number_educ: 1
 #   education1: Master Leiden University with Felix Baumberger, Milan Allan
 #   education2:
@@ -59,7 +62,7 @@
 - name: Alexis Catalano
   photo: alexis.jpg
   info: Biology undergrad at UVa
-  # email: amc5ap@virginia.edu 
+  email: amc5ap@virginia.edu 
 #   number_educ: 2
 #   education1: Master Leiden University with Milan Allan
 #   education2: Casimir PhD grant

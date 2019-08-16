@@ -21,8 +21,10 @@ permalink: /team/
 <div class="col-sm-6 clearfix">
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
   <h4>{{ member.name }}</h4>
-  <i>{{ member.info }}</i>
+  <i>{{ member.info }}</i> <br>
   <!-- <br>email: <{{ member.email }}> -->
+  {% if member.email != null %}  <a href="mailto:{{ member.email }}">  <i class="fa fa-envelope" aria-hidden="true"></i></a>  {% endif %}  {% if member.github != null %}  <a href="{{ member.github }}"><i class="fab fa-github" aria-hidden="true"></i></a>  {% endif %} {% if member.linkedin != null %}  <a href="{{ member.linkedin }}"><i class="fab fa-linkedin" aria-hidden="true"></i></a>  {% endif %}
+
   <ul style="overflow: hidden">
 
   {% if member.number_educ == 1 %}
