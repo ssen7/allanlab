@@ -43,6 +43,7 @@
   info: Research Scientist, MS
   email: ss4yd@virginia.edu
   github: https://github.com/ssen7
+  linkedin: https://www.linkedin.com/in/saurav-sengupta/
 #   number_educ: 1
 #   education1: Master Leiden University with Milan Allan
 #   education2:
@@ -82,7 +83,7 @@
 - name: William Adorno
   photo: will.png
   info: PhD Student
-  # email: wa3mr@virginia.edu 
+  email: wa3mr@virginia.edu 
 #   number_educ: 2
 #   education1: Leidse instrumentmakers School
 #   education2: Associate degree Mechanical Engineering, Hogeschool Arnhem Nijmegen
@@ -90,7 +91,7 @@
 - name: Rasoul Sali
   photo: rasoul.jpg
   info: PhD Student
-  # email: rs8wa@virginia.edu 
+  email: rs8wa@virginia.edu 
 #   number_educ: 2
 #   education1: Leidse Instrumentmaker School
 #   education2: Mechanical Engineer , Hogeschool  Delft
@@ -100,7 +101,7 @@
 - name: Ke Wang
   photo: ke.jpg
   # info: Fine mechanical engineer associated with the FMD working in our group
-  # email: kw5na@virginia.edu 
+  email: kw5na@virginia.edu 
 #   number_educ: 2
 #   education1: Leidse Instrumentmaker School
 #   education2: Mechanical Engineer , Hogeschool  Delft
@@ -110,7 +111,7 @@
 - name: Victor Aquino
   photo: victor.jpg
   info: Medical Student at UVa
-  # email: kw5na@virginia.edu 
+  email: kw5na@virginia.edu 
 #   number_educ: 2
 #   education1: Leidse Instrumentmaker School
 #   education2: Mechanical Engineer , Hogeschool  Delft

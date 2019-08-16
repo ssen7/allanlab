@@ -184,3 +184,15 @@ width: 120px;
 #Library:hover {
 background-image: url('LibraryHoverTrans.png');
 }
+
+.social {
+    display: flow-root;
+    margin-left: 15px;
+}
+.social a {
+    text-decoration: none;
+    margin-right: 10px;
+    // text-shadow: 0 1px 3px rgba(0,0,0,0.3);
+    color: grey;
+    display: inline-block;
+}
