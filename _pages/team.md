@@ -166,7 +166,5 @@ permalink: /team/
 </div>
 {% endif %}
 
-## Administrative Support
-<a href="mailto:Rijsewijk@Physics.LeidenUniv.nl">Ellie van Rijsewijk</a> is helping us (and other groups) with administration. -->
 ### Join Us!
 If you want to join us contact us <email>
