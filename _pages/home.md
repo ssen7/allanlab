@@ -6,21 +6,21 @@ sitemap: false
 permalink: /
 ---
 
-![cnn_research]({{ site.url }}{{ site.baseurl }}/images/research/cnn_research.png){:class="img-responsive"}
+<!-- ![cnn_research]({{ site.url }}{{ site.baseurl }}/images/research/cnn_research.png){:class="img-responsive"} -->
 
 
-<!-- <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="5000" data-pause="hover" >
-    Menu
+<div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="5000" data-pause="hover" >
+    <!-- Menu -->
     <ol class="carousel-indicators">
         <li data-target="#carousel" data-slide-to="0" class="active"></li>
         <li data-target="#carousel" data-slide-to="1"></li>
         <li data-target="#carousel" data-slide-to="2"></li>
-        <li data-target="#carousel" data-slide-to="3"></li>
-        <li data-target="#carousel" data-slide-to="4"></li>
-        <li data-target="#carousel" data-slide-to="5"></li>
+        <!-- <li data-target="#carousel" data-slide-to="3"></li> -->
+        <!-- <li data-target="#carousel" data-slide-to="4"></li>
+        <li data-target="#carousel" data-slide-to="5"></li> -->
     </ol>
 
-    Items
+    <!-- Items -->
     <div class="carousel-inner" markdown="0">
 
         <div class="item active">
@@ -32,7 +32,7 @@ permalink: /
         <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/carousel/c4.jpg" alt="Slide 3" />
         </div>
-        
+               
     </div>
   <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
     <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
@@ -42,7 +42,7 @@ permalink: /
     <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
     <span class="sr-only">Next</span>
   </a>
-</div> -->
+</div>
 
 
 
