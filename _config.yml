@@ -12,8 +12,8 @@ description: > # this means to ignore newlines until "baseurl:"
   Welcome to deep learning for medicine
 # baseurl: ""
 # url: ""
-# url: "http://ssen7.github.io" 
-# baseurl: "/allanlab"
+url: "http://faculty.virginia.edu" 
+baseurl: "/GutIntelligenceLab"
 
 include:
   - .htaccess

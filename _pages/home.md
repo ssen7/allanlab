@@ -1,7 +1,7 @@
 ---
 title: "Gut Intelligence Lab - Home"
 layout: homelay
-excerpt: "AI in Gastroenterology Group at the University of Virginia"
+excerpt: "Gut Intelligence Lab at the University of Virginia"
 sitemap: false
 permalink: /
 ---
@@ -50,14 +50,12 @@ permalink: /
 
 
 
-We are a team of medical professionals, data scientists and engineers geared towards exploring and solving the questions related to gut structure and function. Our aim is to utilize cutting edge Artificial Intelligence and Machine Learning based methods to innovatively contribute to the field of medicine - particularly gastroenterology. 
+We are a multi-disciplinary team of medical professionals, data scientists and engineers geared towards exploring and solving questions related to gut structure and function. Our aim is to challenge and seek to shift clinical practice paradigms by utilizing novel Artificial Intelligence and Machine Learning based methods to innovatively contribute to the field of medicine - particularly gastroenterology. 
 
-![team_pic]({{ site.url }}{{ site.baseurl }}/images/chrcdsiteam.png){:class="img-responsive"}
-
-Our goal is to apply cutting edge deep learning research to the field of Gastroenterology research to gain new insights and help advance medicine research as we believe techniques developed here can be applied across various disciplines.
+![team_pic]({{ site.url }}{{ site.baseurl }}/images/group-serious.png){:class="img-responsive"}
 
 <!-- ## What is the Gut Intelligence Lab? -->
-With the rapid advancement of technology, our ability to innovatively interweave mathematics, engineering and computer science in medicine portends enormous potential change for our collective future health. A specific area of application lies in digital pathology and the use of **Artificial Intelligence (AI)** for pattern recognition in tissue based disease diagnoses. Gastroenterology relies on histopathology-based diagnoses using tissue from the gut and liver with a growing interest in diagnostic tools such as **Probe-based confocal laser endomicroscopy (pCLE)** and video capsule endoscopy among others. However, the complex images obtained from diagnostic modalities mentioned earlier are heterogeneous requiring a focused approach that produces human-friendly and narrow-detail oriented answers. To solve this problem, we formed a team with medicine, engineering and data science expertise dedicated to revolutionizing the use of AI in gastroenterology.
+With the rapid advancement of technology, our ability to innovatively interweave mathematics, engineering and computer science in medicine portends enormous potential change for our collective future health. A specific area of application lies in digital pathology and the use of **Artificial Intelligence (AI)** for pattern recognition in tissue based disease diagnoses. Gastroenterology relies on histopathology-based diagnoses using tissue from the gut and liver with a growing interest in diagnostic tools such as **Probe-based confocal laser endomicroscopy (pCLE)** and video capsule endoscopy amongst others. However, the deluge of complex images obtained from diagnostic modalities mentioned earlier are heterogeneous requiring a focused approach that produces human-friendly and narrow-detail oriented answers. Our lab with its multi-disciplinary expertise in medicine, engineering and data science is dedicated to revolutionizing the use of AI in gastroenterology.
 
 We are located at **[University of Virginia (UVA)](https://www.virginia.edu/)**, in a working collaboration with the **[UVA Health System](https://uvahealth.com/)** and the **[Data Science Institute](https://datascience.virginia.edu/)**.
 
