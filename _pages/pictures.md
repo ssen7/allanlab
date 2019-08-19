@@ -1,5 +1,5 @@
 ---
-title: "AI in Gastroenterology Group - Pictures"
+title: "Gut Intelligence Lab - Pictures"
 layout: piclay
 excerpt: "Gut AI -- Pictures"
 permalink: /pictures/

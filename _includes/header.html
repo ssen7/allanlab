@@ -1,6 +1,9 @@
 <div class="navbar navbar-default navbar-fixed-top" role="navigation">
 	<div class="container-fluid">
 		<div class="navbar-header">
+
+			<!-- <img class="navbar-brand" src='{{ site.url }}{{ site.baseurl }}/images/gut_AI_logo.png'
+				style="position:relative;top:-30px; align-self: auto;"> -->
 			<button type="button" class="navbar-toggle collapsed" data-toggle="collapse"
 				data-target="#navbar-collapse-1" aria-expanded="false">
 				<span class="sr-only">Toggle navigation</span>
@@ -9,9 +12,24 @@
 				<span class="icon-bar"></span>
 			</button>
 
-			<a class="navbar-brand" href="{{ site.url }}{{ site.baseurl }}/">AI in Gastroenterology Group</a>
+
+			<!-- <a class="navbar-brand" href="{{ site.url }}{{ site.baseurl }}/"><img class="navbar-brand"
+					src='{{ site.url }}{{ site.baseurl }}/images/gut_AI_logo.png'
+					style="position:relative;top:-30px; align-self: auto;">Gut
+				Intelligence Lab &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+				<div style="display: block; font-size: 10px">Data
+					and Machine Learning in
+					Gastroenterology</div>
+
+			</a> -->
+			<a class="navbar-brand" href="{{ site.url }}{{ site.baseurl }}/">
+				<img style="margin-top: -15px;" src="{{ site.url }}{{ site.baseurl }}/images/logo.png">
+			</a>
+			<a class="navbar-brand" href="{{ site.url }}{{ site.baseurl }}/">Gut Intelligence Lab
+				<small>Big Data and Machine Learning in Gastroenterology</small>
+			</a>
 		</div>
-		<div class="collapse navbar-collapse" id="navbar-collapse-1">
+		<div class=" collapse navbar-collapse" id="navbar-collapse-1">
 			<ul class="nav navbar-nav navbar-right">
 				<li><a href="{{ site.url }}{{ site.baseurl }}/">Home</a></li>
 				<li><a href="{{ site.url }}{{ site.baseurl }}/team">Team</a></li>

@@ -1,7 +1,7 @@
 ---
-title: "AI in Gastroenterology Group - Research"
+title: "Gut Intelligence Lab - Research"
 layout: research
-excerpt: "AI in Gastroenterology Group -- Research"
+excerpt: "Gut Intelligence Lab -- Research"
 sitemap: false
 permalink: /research/
 ---
@@ -12,14 +12,6 @@ Deep learning methods for medical diagnostic imaging can reduce delays in diagno
 
 ### Computational image analysis to address staining color bias in duodenal biopsies
 Hematoxylin and Eosin(H&E) stains are the most widely used stains in medical diagnosis. Digital images used in computational pathology may contain significant variations in H\&E staining due to a number of factors. These factors include differences in tissue preparation, raw materials, manufacturing protocol, and digital scanners. The variations of stain color in groups of images can create a bias in deep learning models such as Convolutional Neural Networks. Color correction techniques are applied to H\&E stained images to attempt to remove the potential biases from staining variations. In this paper, we compare the performance of three different color normalization techniques when applied to a deep learning classification model. The techniques tested are structure-preserving color normalization, a non-linear mapping approach to stain normalization, and color balancing. The classification dataset consists of duodenal biopsy images originating from three different sources and contains Celiac Disease, Environmental Enteropathy, and Normal classes. After pre-processing images with each color correction technique, the images are classified using an equivalent training set and deep learning architecture.
-
-{% for publi in site.data.publist %}
-
-  {{ publi.title }} <br />
-  <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
-
-{% endfor %}
-
 
 <div class="Library"></div>
 

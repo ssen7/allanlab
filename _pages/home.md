@@ -1,5 +1,5 @@
 ---
-title: "AI in Gastroenterology Group - Home"
+title: "Gut Intelligence Lab - Home"
 layout: homelay
 excerpt: "AI in Gastroenterology Group at the University of Virginia"
 sitemap: false
@@ -15,7 +15,7 @@ permalink: /
         <li data-target="#carousel" data-slide-to="0" class="active"></li>
         <li data-target="#carousel" data-slide-to="1"></li>
         <li data-target="#carousel" data-slide-to="2"></li>
-        <!-- <li data-target="#carousel" data-slide-to="3"></li> -->
+        <li data-target="#carousel" data-slide-to="3"></li>
         <!-- <li data-target="#carousel" data-slide-to="4"></li>
         <li data-target="#carousel" data-slide-to="5"></li> -->
     </ol>
@@ -32,6 +32,10 @@ permalink: /
         <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/carousel/c4.jpg" alt="Slide 3" />
         </div>
+        <div class="item">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/carousel/c1.png" alt="Slide 3" />
+        </div>
+        
                
     </div>
   <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
@@ -46,14 +50,16 @@ permalink: /
 
 
 
+We are a team of medical professionals, data scientists and engineers geared towards exploring and solving the questions related to gut structure and function. Our aim is to utilize cutting edge Artificial Intelligence and Machine Learning based methods to innovatively contribute to the field of medicine - particularly gastroenterology. 
 
-<!-- To this end, we develop novel spectroscopic-imaging scanning tunneling microscopy (SI-STM) tools to visualize the relevant quantum mechanical degrees of freedom. We want do be able to build the perfect instruments to answer the  scientific questions we deem most important (see [Research](research)).
+![team_pic]({{ site.url }}{{ site.baseurl }}/images/chrcdsiteam.png){:class="img-responsive"}
 
-We are located at Leiden University, the birthplace of superconductivity and home to Kamerlingh Onnes, Lorentz, Huygens, Einstein, de Sitter, and others (see e.g. [the wall of signatures from Ehrenfest lecturers](https://www.lorentz.leidenuniv.nl/history/colloquium/muur_heel.html)). We exchange ideas and work with our neighbors from [Quantum Matter & Optics](http://www.physics.leidenuniv.nl/qo-home), as well as with the colleagues from our [world-class theory section](https://www.lorentz.leidenuniv.nl).
+Our goal is to apply cutting edge deep learning research to the field of Gastroenterology research to gain new insights and help advance medicine research as we believe techniques developed here can be applied across various disciplines.
 
- **We are  looking for passionate new PhD students, Postdocs, and Master students to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies) **!** -->
-## What is Gut AI?
+<!-- ## What is the Gut Intelligence Lab? -->
 With the rapid advancement of technology, our ability to innovatively interweave mathematics, engineering and computer science in medicine portends enormous potential change for our collective future health. A specific area of application lies in digital pathology and the use of **Artificial Intelligence (AI)** for pattern recognition in tissue based disease diagnoses. Gastroenterology relies on histopathology-based diagnoses using tissue from the gut and liver with a growing interest in diagnostic tools such as **Probe-based confocal laser endomicroscopy (pCLE)** and video capsule endoscopy among others. However, the complex images obtained from diagnostic modalities mentioned earlier are heterogeneous requiring a focused approach that produces human-friendly and narrow-detail oriented answers. To solve this problem, we formed a team with medicine, engineering and data science expertise dedicated to revolutionizing the use of AI in gastroenterology.
+
+We are located at **[University of Virginia (UVA)](https://www.virginia.edu/)**, in a working collaboration with the **[UVA Health System](https://uvahealth.com/)** and the **[Data Science Institute](https://datascience.virginia.edu/)**.
 
 
 <!-- We are grateful for funding from Leiden University, [NWO](www.nwo.nl) ([Vidi talent scheme](http://www.nwo.nl/en/research-and-results/programmes/Talent+Scheme) and the [Frontiers in Nanoscience program](https://www.universiteitleiden.nl/en/research/research-projects/science/frontiers-of-nanoscience-nanofront)), and from an [ERC starting grant](https://erc.europa.eu/funding/starting-grants). -->

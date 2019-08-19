@@ -1,7 +1,7 @@
 ---
-title: "AI in Gastroenterology Group - Team"
+title: "Gut Intelligence Lab - Team"
 layout: gridlay
-excerpt: "AI in Gastroenterology Group: Team members"
+excerpt: "Gut Intelligence Lab: Team members"
 sitemap: false
 permalink: /team/
 ---
@@ -24,7 +24,7 @@ permalink: /team/
   <i>{{ member.info }}</i> <br>
   <!-- <br>email: <{{ member.email }}> -->
   <p class='social'> 
-  {% if member.email != null %}  <a href="mailto:{{ member.email }}">  <i class="fa fa-envelope" aria-hidden="true"></i></a>  {% endif %}  {% if member.github != null %}  <a href="{{ member.github }}"><i class="fa fa-github" aria-hidden="true"></i></a>  {% endif %} {% if member.linkedin != null %}  <a href="{{ member.linkedin }}"><i class="fa fa-linkedin" aria-hidden="true"></i></a>  {% endif %} {% if member.scholar != null %}  <a href="{{ member.scholar }}"><i class="ai ai-google-scholar-square" aria-hidden="true"></i></a>  {% endif %} 
+  {% if member.email != null %}  <a href="mailto:{{ member.email }}">  <i class="fa fa-globe" aria-hidden="true"></i></a>  {% endif %}  {% if member.github != null %}  <a href="{{ member.github }}"><i class="fa fa-github" aria-hidden="true"></i></a>  {% endif %} {% if member.linkedin != null %}  <a href="{{ member.linkedin }}"><i class="fa fa-linkedin" aria-hidden="true"></i></a>  {% endif %} {% if member.scholar != null %}  <a href="{{ member.scholar }}"><i class="ai ai-google-scholar-square" aria-hidden="true"></i></a>  {% endif %} 
   </p>
   
   <ul style="overflow: hidden">
