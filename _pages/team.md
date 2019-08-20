@@ -8,7 +8,7 @@ permalink: /team/
 
 # Group Members
 
-## Team
+<!-- ## Team -->
 {% assign number_printed = 0 %}
 {% for member in site.data.team_members %}
 
@@ -75,72 +75,6 @@ permalink: /team/
 </div>
 {% endif %}
 
-## Current Students
-{% assign number_printed = 0 %}
-{% for member in site.data.students %}
-
-{% assign even_odd = number_printed | modulo: 2 %}
-
-{% if even_odd == 0 %}
-<div class="row">
-{% endif %}
-
-<div class="col-sm-6 clearfix">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
-  <h4>{{ member.name }}</h4>
-  <i>{{ member.info }}</i> <br>
-  <!-- <br>email: <{{ member.email }}> -->
-  <p class='social'> 
-  {% if member.email != null %}  <a href="mailto:{{ member.email }}">  <i class="fa fa-globe" aria-hidden="true"></i></a>  {% endif %}  {% if member.github != null %}  <a href="{{ member.github }}"><i class="fa fa-github" aria-hidden="true"></i></a>  {% endif %} {% if member.linkedin != null %}  <a href="{{ member.linkedin }}"><i class="fa fa-linkedin" aria-hidden="true"></i></a>  {% endif %} {% if member.scholar != null %}  <a href="{{ member.scholar }}"><i class="ai ai-google-scholar-square" aria-hidden="true"></i></a>  {% endif %} 
-  </p>
-  
-  <ul style="overflow: hidden">
-
-  {% if member.number_educ == 1 %}
-  <li> {{ member.education1 }} </li>
-  {% endif %}
-
-  {% if member.number_educ == 2 %}
-  <li> {{ member.education1 }} </li>
-  <li> {{ member.education2 }} </li>
-  {% endif %}
-
-  {% if member.number_educ == 3 %}
-  <li> {{ member.education1 }} </li>
-  <li> {{ member.education2 }} </li>
-  <li> {{ member.education3 }} </li>
-  {% endif %}
-
-  {% if member.number_educ == 4 %}
-  <li> {{ member.education1 }} </li>
-  <li> {{ member.education2 }} </li>
-  <li> {{ member.education3 }} </li>
-  <li> {{ member.education4 }} </li>
-  {% endif %}
-
-  {% if member.number_educ == 5 %}
-  <li> {{ member.education1 }} </li>
-  <li> {{ member.education2 }} </li>
-  <li> {{ member.education3 }} </li>
-  <li> {{ member.education4 }} </li>
-  <li> {{ member.education5 }} </li>
-  {% endif %}
-
-  </ul>
-</div>
-
-{% assign number_printed = number_printed | plus: 1 %}
-
-{% if even_odd == 1 %}
-</div>
-{% endif %}
-
-{% endfor %}
-
-{% assign even_odd = number_printed | modulo: 2 %}
-{% if even_odd == 1 %}
-</div>
-{% endif %}
 
 
 <!-- ## Master and Bachelor Students
@@ -196,11 +130,12 @@ permalink: /team/
 </div>
 {% endif %} -->
 
+#### Click here for [Alumni](/alumni) and [Collaborators](/collaborators)
 
-## Alumni
+### Administrative Contact
 
 {% assign number_printed = 0 %}
-{% for member in site.data.alumni_members %}
+{% for member in site.data.admin %}
 
 {% assign even_odd = number_printed | modulo: 2 %}
 
@@ -211,8 +146,12 @@ permalink: /team/
 <div class="col-sm-6 clearfix">
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
   <h4>{{ member.name }}</h4>
-  <i>{{ member.duration }} <br> {{ member.info }}</i>
+  <i>{{ member.info }}</i> <br>
   <!-- <br>email: <{{ member.email }}> -->
+  <p class='social'> 
+  {% if member.email != null %}  <a href="mailto:{{ member.email }}">  <i class="fa fa-globe" aria-hidden="true"></i></a>  {% endif %}  {% if member.github != null %}  <a href="{{ member.github }}"><i class="fa fa-github" aria-hidden="true"></i></a>  {% endif %} {% if member.linkedin != null %}  <a href="{{ member.linkedin }}"><i class="fa fa-linkedin" aria-hidden="true"></i></a>  {% endif %} {% if member.scholar != null %}  <a href="{{ member.scholar }}"><i class="ai ai-google-scholar-square" aria-hidden="true"></i></a>  {% endif %} 
+  </p>
+  
   <ul style="overflow: hidden">
 
   </ul>
@@ -231,5 +170,9 @@ permalink: /team/
 </div>
 {% endif %}
 
-### Join Us!
-If you want to join us contact us <email>
+### Be a part of the future of AI in gastroenterology!
+![fun_team_pic]({{ site.url }}{{ site.baseurl }}/images/chrcdsiteam.png){:class="img-responsive"}
+
+<button style="padding: 10px 10px; font-size: 15px; border-radius: 10px;" type="button" class="btn btn-primary" onclick=" relocate_home()">Come Work With Us!</button>
+
+(We also offer short 1-2 month electives for students interested in learning more about what we do.)

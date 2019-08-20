@@ -1,0 +1,77 @@
+- name: Sean Moore
+  photo: sean.png
+  duration: MD (Cell Biology) 
+  info: Associate Professor, University of Virginia
+  # email: MK2NE@hscmail.mcc.virginia.edu 
+  # number_educ: 1
+  # education1: 
+#   education2:
+#   education3:
+#   education4:
+
+- name: Asad Ali
+  photo: asad.png
+  duration: MBBS, MPH (Global Health/Peds ID)
+  info: Associate Professor, Aga Khan University
+  # email: MK2NE@hscmail.mcc.virginia.edu 
+  # number_educ: 1
+  # education1: 
+#   education2:
+#   education3:
+#   education4:
+
+- name: Paul Kelly
+  photo: paul.png
+  duration:  MD, PhD (Global Health)
+  info: Professor, Queen Mary University of London/University of Zambia School of Medicine
+  # email: MK2NE@hscmail.mcc.virginia.edu 
+  # number_educ: 1
+  # education1: 
+#   education2:
+#   education3:
+#   education4:
+
+
+- name: Chris Moskaluk
+  photo: chris.png
+  duration:  MD, PhD (Biotissue Respository and Tissue Research)
+  info: Professor and Chair of Pathology, University of Virginia
+  # email: MK2NE@hscmail.mcc.virginia.edu 
+  # number_educ: 1
+  # education1: 
+#   education2:
+#   education3:
+#   education4:
+
+- name: Jason Papin
+  photo: jason.png
+  duration:  MS, PhD (Computational Metabolomics)
+  info: Professor, University of Virginia
+  # email: MK2NE@hscmail.mcc.virginia.edu 
+  # number_educ: 1
+  # education1: 
+#   education2:
+#   education3:
+#   education4:
+
+- name: Tilak Shah
+  photo: tilak.png
+  duration: MD, MS (Clinical Gastroenterology)
+  info: Richmond VA/VCU
+  # email: MK2NE@hscmail.mcc.virginia.edu 
+  # number_educ: 1
+  # education1: 
+#   education2:
+#   education3:
+#   education4:
+
+- name: Ted Denson
+  photo: ted.png
+  duration:  MD (Inflammatory Bowel Disease) 
+  info: Professor, Cincinnati Children’s Hospital Medical Center
+  # email: MK2NE@hscmail.mcc.virginia.edu 
+  # number_educ: 1
+  # education1: 
+#   education2:
+#   education3:
+#   education4:

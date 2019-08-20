@@ -25,6 +25,7 @@
   photo: lubaina.jpg
   info: Research Assistant, MD
   email: LE7JG@hscmail.mcc.virginia.edu 
+  linkedin: https://www.linkedin.com/in/lubaina-ehsan-7b157579/
 #   number_educ: 2
 #   education1: Bachelor National and Kapodistrian University of Athens with D Syvridis
 #   education2: Master TU Delft with <a href="http://vanderzantlab.tudelft.nl/">Herre van der Zant</a>
@@ -104,19 +105,8 @@
 #   education3:
 #   education4:
 
-- name: Ke Wang
-  photo: ke.jpg
-  info: Research Scientist, Department of Computer Science
-  email: kw5na@virginia.edu
-  scholar: https://scholar.google.com/citations?user=Xa5onGcAAAAJ&hl=en
-#   number_educ: 2
-#   education1: Leidse Instrumentmaker School
-#   education2: Mechanical Engineer , Hogeschool  Delft
-#   education3:
-#   education4:
-
 - name: Victor Aquino
-  photo: victor.jpg
+  photo: victor.png
   info: Medical Student at UVa
   email: kw5na@virginia.edu 
 #   number_educ: 2
@@ -124,6 +114,24 @@
 #   education2: Mechanical Engineer , Hogeschool  Delft
 #   education3:
 #   education4:
+
+- name: Shan Guleria
+  photo: shan.jpg
+  info: Medical Student at UVa
+  email:
+  number_educ:
+  education1:
+  education2:
+  education3:
+  education4:
+
+- name: Ryan Sosh
+  photo: ryan.png
+  info: Medical Student at UVa
+  email: 
+  number_educ: 0
+  education1:
+
 
 # - name: "This could be you !"
 #   photo: rock.jpg

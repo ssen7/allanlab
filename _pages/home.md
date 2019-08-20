@@ -57,14 +57,9 @@ We are a multi-disciplinary team of medical professionals, data scientists and e
 <!-- ## What is the Gut Intelligence Lab? -->
 With the rapid advancement of technology, our ability to innovatively interweave mathematics, engineering and computer science in medicine portends enormous potential change for our collective future health. A specific area of application lies in digital pathology and the use of **Artificial Intelligence (AI)** for pattern recognition in tissue based disease diagnoses. Gastroenterology relies on histopathology-based diagnoses using tissue from the gut and liver with a growing interest in diagnostic tools such as **Probe-based confocal laser endomicroscopy (pCLE)** and video capsule endoscopy amongst others. However, the deluge of complex images obtained from diagnostic modalities mentioned earlier are heterogeneous requiring a focused approach that produces human-friendly and narrow-detail oriented answers. Our lab with its multi-disciplinary expertise in medicine, engineering and data science is dedicated to revolutionizing the use of AI in gastroenterology.
 
-We are located at **[University of Virginia (UVA)](https://www.virginia.edu/)**, in a working collaboration with the **[UVA Health System](https://uvahealth.com/)** and the **[Data Science Institute](https://datascience.virginia.edu/)**.
+<!-- We are located at **[University of Virginia (UVA)](https://www.virginia.edu/)**, in a working collaboration with the **[UVA Health System](https://uvahealth.com/)** and the **[Data Science Institute](https://datascience.virginia.edu/)**. -->
 
 
 <!-- We are grateful for funding from Leiden University, [NWO](www.nwo.nl) ([Vidi talent scheme](http://www.nwo.nl/en/research-and-results/programmes/Talent+Scheme) and the [Frontiers in Nanoscience program](https://www.universiteitleiden.nl/en/research/research-projects/science/frontiers-of-nanoscience-nanofront)), and from an [ERC starting grant](https://erc.europa.eu/funding/starting-grants). -->
 
-<figure class="fourth">
-  <!-- <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/uva-logo.png" style="width: 210px"> -->
-  <!-- <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_Nanofront.jpg" style="width: 110px"> -->
-  <!-- <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_NWO.jpg" style="width: 120px"> -->
-  <!-- <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_ERC.jpg" style="width: 110px"> -->
-</figure>
+

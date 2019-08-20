@@ -24,3 +24,4 @@ machine learning techniques designed to process data and interpret it (eg, by de
 pixel intensities within a single image and labeling features at a pixel-by-pixel level).
 
 Representation of pre and post color normalization biopsy images (move slider horizontally to visualize pre and post) 
+
