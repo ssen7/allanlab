@@ -130,7 +130,7 @@ permalink: /team/
 </div>
 {% endif %} -->
 
-#### Click here for [Alumni](/alumni) and [Collaborators](/collaborators)
+#### Click here for [Alumni]({{ site.url }}{{ site.baseurl }}/alumni) and [Collaborators]({{ site.url }}{{ site.baseurl }}/collaborators)
 
 ### Administrative Contact
 
