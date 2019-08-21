@@ -165,7 +165,7 @@
   padding: $navbar-padding-vertical $navbar-padding-horizontal;
   font-size: $font-size-large;
   // font-size: 35px;
-  line-height: $line-height-computed;
+  line-height: $line-height-computed - 3;
   height: $navbar-height;
 
   &:hover,
