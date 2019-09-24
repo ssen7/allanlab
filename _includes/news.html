@@ -5,11 +5,11 @@
     <b>{{ article.date }}</b>
 
     <p>{{ article.headline }}
-        <img src='{{ site.url }}{{ site.baseurl }}/images/news/{{article.image}}' class='img-responsive'
+        <img src='{{ site.baseurl }}/images/news/{{article.image}}' class='img-responsive'
             style='{{article.style}}' />
     </p>
     {% endfor %}
 
-    <h4><a href="{{ site.url }}{{ site.baseurl }}/allnews.html">... see all News</a></h4>
+    <h4><a href="{{ site.baseurl }}/allnews.html">... see all News</a></h4>
 
 </div>

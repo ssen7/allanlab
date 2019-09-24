@@ -12,7 +12,7 @@ description: > # this means to ignore newlines until "baseurl:"
   Welcome to deep learning for medicine
 # baseurl: ""
 # url: ""
-url: "http://faculty.virginia.edu" 
+# url: "http://faculty.virginia.edu"
 baseurl: "/GutIntelligenceLab"
 
 include:
@@ -29,8 +29,6 @@ lsi: false
 excerpt_separator: "\n\n"
 incremental: false
 
-
-
 # Markdown Processing
 kramdown:
   input: GFM
@@ -43,6 +41,6 @@ kramdown:
   enable_coderay: false
   parse_block_html: true # default for kramdown is false. This will enable using Markdown links
 
-plugins: ['jekyll-twitter-plugin', 'jekyll-font-awesome-sass']
+plugins: ["jekyll-twitter-plugin", "jekyll-font-awesome-sass"]
 font-awesome:
   assets: true

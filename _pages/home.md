@@ -6,7 +6,7 @@ sitemap: false
 permalink: /
 ---
 
-<!-- ![cnn_research]({{ site.url }}{{ site.baseurl }}/images/research/cnn_research.png){:class="img-responsive"} -->
+<!-- ![cnn_research]({{ site.baseurl }}/images/research/cnn_research.jpg){:class="img-responsive"} -->
 
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="5000" data-pause="hover" >
@@ -24,16 +24,16 @@ permalink: /
     <div class="carousel-inner" markdown="0">
 
         <div class="item active">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/carousel/c2.jpg" alt="Slide 1" />
+            <img src="{{ site.baseurl }}/images/carousel/c2.jpg" alt="Slide 1" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/carousel/c3.png" alt="Slide 2" />
+            <img src="{{ site.baseurl }}/images/carousel/c3.png" alt="Slide 2" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/carousel/c4.jpg" alt="Slide 3" />
+            <img src="{{ site.baseurl }}/images/carousel/c4.jpg" alt="Slide 3" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/carousel/c1.png" alt="Slide 3" />
+            <img src="{{ site.baseurl }}/images/carousel/c1.png" alt="Slide 3" />
         </div>
         
                
@@ -52,7 +52,7 @@ permalink: /
 
 We are a multi-disciplinary team of medical professionals, data scientists and engineers geared towards exploring and solving questions related to gut structure and function. Our aim is to challenge and seek to shift clinical practice paradigms by utilizing novel Artificial Intelligence and Machine Learning based methods to innovatively contribute to the field of medicine - particularly gastroenterology. 
 
-![team_pic]({{ site.url }}{{ site.baseurl }}/images/group-serious.png){:class="img-responsive"}
+![team_pic]({{ site.baseurl }}/images/group-serious.jpg){:class="img-responsive"}
 
 <!-- ## What is the Gut Intelligence Lab? -->
 With the rapid advancement of technology, our ability to innovatively interweave mathematics, engineering and computer science in medicine portends enormous potential change for our collective future health. A specific area of application lies in digital pathology and the use of **Artificial Intelligence (AI)** for pattern recognition in tissue based disease diagnoses. Gastroenterology relies on histopathology-based diagnoses using tissue from the gut and liver with a growing interest in diagnostic tools such as **Probe-based confocal laser endomicroscopy (pCLE)** and video capsule endoscopy amongst others. However, the deluge of complex images obtained from diagnostic modalities mentioned earlier are heterogeneous requiring a focused approach that produces human-friendly and narrow-detail oriented answers. Our lab with its multi-disciplinary expertise in medicine, engineering and data science is dedicated to revolutionizing the use of AI in gastroenterology.

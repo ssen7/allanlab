@@ -19,7 +19,7 @@ permalink: /team/
 {% endif %}
 
 <div class="col-sm-6 clearfix">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
+  <img src="{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
   <h4>{{ member.name }}</h4>
   <i>{{ member.info }}</i> <br>
   <!-- <br>email: <{{ member.email }}> -->
@@ -130,7 +130,7 @@ permalink: /team/
 </div>
 {% endif %} -->
 
-#### Click here for [Alumni]({{ site.url }}{{ site.baseurl }}/alumni) and [Collaborators]({{ site.url }}{{ site.baseurl }}/collaborators)
+#### Click here for [Alumni]({{ site.baseurl }}/alumni) and [Collaborators]({{ site.baseurl }}/collaborators)
 
 ### Administrative Contact
 
@@ -144,7 +144,7 @@ permalink: /team/
 {% endif %}
 
 <div class="col-sm-6 clearfix">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
+  <img src="{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
   <h4>{{ member.name }}</h4>
   <i>{{ member.info }}</i> <br>
   <!-- <br>email: <{{ member.email }}> -->
@@ -171,7 +171,7 @@ permalink: /team/
 {% endif %}
 
 ### Be a part of the future of AI in gastroenterology!
-![fun_team_pic]({{ site.url }}{{ site.baseurl }}/images/chrcdsiteam.png){:class="img-responsive"}
+![fun_team_pic]({{ site.baseurl }}/images/chrcdsiteam.jpg){:class="img-responsive"}
 
 <button style="padding: 10px 10px; font-size: 15px; border-radius: 10px;" type="button" class="btn btn-primary" onclick=" relocate_home()">Come Work With Us!</button>
 

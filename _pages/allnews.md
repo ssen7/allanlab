@@ -11,6 +11,6 @@ permalink: /allnews.html
 {% for article in site.data.news %}
 <p>{{ article.date }} <br>
 <em>{{ article.headline }}</em>
-<img src='{{ site.url }}{{ site.baseurl }}/images/news/{{article.image}}' class='img-responsive' style='{{article.style}}' />
+<img src='{{ site.baseurl }}/images/news/{{article.image}}' class='img-responsive' style='{{article.style}}' />
 </p>
 {% endfor %}

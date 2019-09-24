@@ -33,5 +33,5 @@ There are  postdoc scholarship available.  I'd be happy to support you after you
 
 
 <!-- <figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/Gallery/DSC_0696.jpg" width="95%">
+<img src="{{ site.baseurl }}/images/picpic/Gallery/DSC_0696.jpg" width="95%">
 </figure> -->
