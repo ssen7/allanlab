@@ -13,7 +13,7 @@ permalink: /publications/
 
 <!-- (For a full list see [below](#full-list) or go to [Google Scholar](https://scholar.google.ch/citations?user=TqxYWZsAAAAJ), [ResearcherID](https://www.researcherid.com/rid/D-7763-2012)) -->
 
-{% assign number_printed = 0 %}
+<!-- {% assign number_printed = 0 %}
 {% for publi in site.data.publist %}
 
 {% assign even_odd = number_printed | modulo: 2 %}
@@ -49,15 +49,11 @@ permalink: /publications/
 </div>
 {% endif %}
 
-<p> &nbsp; </p>
-
-
-## Full List
+<p> &nbsp; </p> -->
 
 {% for publi in site.data.publist %}
-
-  {{ publi.title }} <br />
+  <b>{{ publi.title }} <br /> </b>
   <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
-
+  <br />
 {% endfor %}
 

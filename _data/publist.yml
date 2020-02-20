@@ -1,10 +1,60 @@
-- title: "Assessment of Machine Learning Detection of Environmental Enteropathy and Celiac Disease in Children"
+- title: "Self-Attentive Adversarial Stain Normalization"
+  image: pub2.jpg
+  description: 
+  authors: Shrivastava, A., Adorno, W., Ehsan, L., Ali, S.A., Moore, S.R., Amadi, B.C., Kelly, P., Syed, S. and Brown, D.E.
+  link:
+    url: https://arxiv.org/abs/1909.01963v2
+    display: arXiv preprint arXiv:1909.01963.
+  highlight: 1
+  news2:
+
+- title: "Deep Learning for Visual Recognition of Environmental Enteropathy and Celiac Disease"
+  image: pub2.jpg
+  description: 
+  authors: Shrivastava, A., Kant, K., Sengupta, S., Kang, S.J., Khan, M., Ali, S.A., Moore, S.R., Amadi, B.C., Kelly, P., Brown, D.E. and Syed, S.
+  link:
+    url: https://ieeexplore.ieee.org/abstract/document/8834458
+    display:  2019 IEEE EMBS International Conference on Biomedical & Health Informatics (BHI) (pp. 1-4). IEEE.
+  highlight: 1
+  news2:
+
+- title: "Artificial intelligence applied to gastrointestinal diagnostics: a review"
+  image: pub2.jpg
+  description: 
+  authors: Patel, V., Khan, M.N., Shrivastava, A., Sadiq, K., Ali, S.A., Moore, S.R., Brown, D.E. and Syed, S.
+  link:
+    url: https://journals.lww.com/jpgn/Abstract/2020/01000/Artificial_Intelligence_Applied_to.4.aspx
+    display: Journal of pediatric gastroenterology and nutrition, 70(1), pp.4-11.
+  highlight: 1
+  news2:
+
+- title: "Assessment of machine learning detection of environmental enteropathy and celiac disease in children"
   image: pub1.png
   # description: Can deep learning image analysis distinguish pathological vs healthy features in duodenal tissue?
-  authors: Sana Syed, Mohammad Al-Boni, Marium N Khan, Kamran Sadiq, Najeeha T Iqbal, Christopher A Moskaluk, Paul Kelly, Beatrice Amadi, S Asad Ali, Sean R Moore, Donald E Brown
+  authors: Syed, S., Al-Boni, M., Khan, M.N., Sadiq, K., Iqbal, N.T., Moskaluk, C.A., Kelly, P., Amadi, B., Ali, S.A., Moore, S.R. and Brown, D.E.
   link:
     url: https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2735765
-    display:  JAMA Network Open, June 2019
+    display:  JAMA network open, 2(6), pp.e195822-e195822.
+  highlight: 1
+  news2:
+
+- title: "CeliacNet: Celiac Disease Severity Diagnosis on Duodenal Histopathological Images Using Deep Residual Networks"
+  image: pub2.jpg
+  description: 
+  authors: Sali, R., Ehsan, L., Kowsari, K., Khan, M., Moskaluk, C.A., Syed, S. and Brown, D.E.
+  link:
+    url: https://arxiv.org/abs/1910.03084
+    display: arXiv preprint arXiv:1910.03084.
+  highlight: 1
+  news2:
+
+- title: "Diagnosis of celiac disease and environmental enteropathy on biopsy images using color balancing on convolutional neural networks"
+  image: pub2.jpg
+  description: 
+  authors: Kowsari, K., Sali, R., Khan, M.N., Adorno, W., Ali, S.A., Moore, S.R., Amadi, B.C., Kelly, P., Syed, S. and Brown, D.E.
+  link:
+    url: https://link.springer.com/chapter/10.1007/978-3-030-32520-6_55
+    display: Proceedings of the Future Technologies Conference (pp. 750-765). Springer, Cham.
   highlight: 1
   news2:
 
@@ -27,5 +77,3 @@
     display:  IEEE Xplore
   highlight: 1
   news2:
-
-
